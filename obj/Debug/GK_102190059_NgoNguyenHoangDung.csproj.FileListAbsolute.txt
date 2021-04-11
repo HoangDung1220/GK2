@@ -1,0 +1,12 @@
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\bin\Debug\GK_102190059_NgoNguyenHoangDung.exe.config
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\bin\Debug\GK_102190059_NgoNguyenHoangDung.exe
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\bin\Debug\GK_102190059_NgoNguyenHoangDung.pdb
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.csprojAssemblyReference.cache
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.DetailForm.resources
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.Form1.resources
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.MainForm.resources
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.Properties.Resources.resources
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.csproj.GenerateResource.cache
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.exe
+C:\Users\Hoang Dung\source\repos\GK_102190059_NgoNguyenHoangDung\GK_102190059_NgoNguyenHoangDung\obj\Debug\GK_102190059_NgoNguyenHoangDung.pdb
